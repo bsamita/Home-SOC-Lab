@@ -178,7 +178,7 @@ I've written detailed articles about this lab:
 ## 📧 Contact
 
 Questions? Suggestions? Reach out:
-- LinkedIn: https://www.linkedin.com/in/bsamita/(link)
+- LinkedIn: https://www.linkedin.com/in/bsamita/
 - Email: brownsamita@gmail.com
 
 ## 📄 License
