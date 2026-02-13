@@ -178,8 +178,8 @@ I've written detailed articles about this lab:
 ## 📧 Contact
 
 Questions? Suggestions? Reach out:
-- LinkedIn: [Your Profile](link)
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/bsamita/(link)
+- Email: brownsamita@gmail.com
 
 ## 📄 License
 
