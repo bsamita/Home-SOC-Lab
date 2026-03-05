@@ -237,13 +237,13 @@ CIS Benchmark compliance (Win10):        <50%
 ### Screenshots
 
 **Wazuh Security Events Dashboard**
-![Wazuh Dashboard](screenshots/wazuh_dashboard.png)
+![Wazuh Dashboard](Screenshots/wazuh_dashboard.png)
 
 **Level 12 Critical Alert — Administrators Group Changed**
-![Wazuh Events](screenshots/wazuh_events.png)
+![Wazuh Events](Screenshots/wazuh_events.png)
 
 **Privilege Escalation — CMD Execution**
-![Privilege Escalation](screenshots/privesc_cmd.png)
+![Privilege Escalation](Screenshots/privesc_cmd.png)
 
 ---
 
